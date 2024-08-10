@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13f6a35a-d13c-42f4-9a0a-e03a0c469e85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ResultSet2xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_0_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelManagementSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/AddDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/AddRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/CustomerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/DashBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/JDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Login2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/ManagerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/NewCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/PickUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Reception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/SearchRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/Splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/UpdateCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/UpdateRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/Dashboard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/Reception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/addemp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/admin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/cccc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/customer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/driver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/employees.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/license.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/room.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/roomm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/roomser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/splash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelManagementSystem/icon/updated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResultSet2xml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql-connector-j-9.0.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2jmPzBjm8BUhXGk2ew174gRWM5u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/42194/workspace/HotelManagementSystem/src/ResultSet2xml.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\42194\workspace\HotelManagementSystem\src" />
+      <recent name="C:\Users\42194\workspace\HotelManagementSystem\icon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\42194\workspace\HotelManagementSystem\src" />
+      <recent name="C:\Users\42194\workspace\HotelManagementSystem\src\HotelManagementSystem\icon" />
+      <recent name="C:\Users\42194\workspace\HotelManagementSystem\icon" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f6a35a-d13c-42f4-9a0a-e03a0c469e85" name="Changes" comment="" />
+      <created>1721989543953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721989543953</updated>
+      <workItem from="1721989544598" duration="7920000" />
+      <workItem from="1722248922286" duration="8023000" />
+      <workItem from="1722332607768" duration="7959000" />
+      <workItem from="1722416965608" duration="13852000" />
+      <workItem from="1722492134336" duration="12236000" />
+      <workItem from="1722601415609" duration="1305000" />
+      <workItem from="1722767325965" duration="5427000" />
+      <workItem from="1722840554274" duration="7551000" />
+      <workItem from="1722932578940" duration="8922000" />
+      <workItem from="1723110721827" duration="7130000" />
+      <workItem from="1723204501069" duration="3198000" />
+      <workItem from="1723279536666" duration="3790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
